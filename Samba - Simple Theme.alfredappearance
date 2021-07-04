@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System Light",
+        "color" : "#68717FFF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#24282CFF"
+      },
+      "backgroundSelected" : "#3A82F6FF",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#24282CE5"
+      },
+      "iconPaddingHorizontal" : 15,
+      "roundness" : 17,
+      "paddingVertical" : 8,
+      "iconSize" : 21
+    },
+    "search" : {
+      "backgroundSelected" : "#3B81F5FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#D1E7FFFF",
+        "font" : "System",
+        "color" : "#24282CFF"
+      },
+      "background" : "#F8F9FA00",
+      "roundness" : 25,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#FFFFFFBF",
+      "paddingHorizontal" : 6,
+      "width" : 553,
+      "borderPadding" : 0,
+      "borderColor" : "#4A4A4A33",
+      "blur" : 34,
+      "roundness" : 27,
+      "paddingVertical" : 8
+    },
+    "credit" : "Wojciech Olszewski",
+    "separator" : {
+      "color" : "#000000F3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#3B81F6FF",
+      "thickness" : 3
+    },
+    "name" : "Samba - Simple Theme"
+  }
+}
